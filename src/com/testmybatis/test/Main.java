@@ -20,6 +20,7 @@ public class Main {
         }else{
         	 System.out.println("没有查到!");
         }
+        System.out.println("Is Ok");
       
     }
 
